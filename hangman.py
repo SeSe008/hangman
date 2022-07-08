@@ -94,7 +94,7 @@ def manage(event):
 
 def open_img(root):
     global panel, count
-    x = "/home/computer-ag-02/Downloads/Python/Hangman/Pics/H"+str(count)+".png"
+    x = "./Pics/H"+str(count)+".png"
     img = Image.open(x)
     img = img.resize((250, 250), Image.ANTIALIAS)
     img = ImageTk.PhotoImage(img)
