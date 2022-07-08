@@ -1,2 +1,2 @@
-# hangman
+# Hangman
 Hangman with python
