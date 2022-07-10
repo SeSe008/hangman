@@ -1,2 +1,3 @@
 # Hangman
-Hangman with python
+Hangman with Python. 
+Made with Tkinter
